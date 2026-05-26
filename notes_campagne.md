@@ -1,6 +1,7 @@
 # CAMPAGNE COF2 CALICE — Notes MJ
 
 ## Règles optionnelles adoptées
+
 - 10 points d'achat (au lieu de 7) — Atlas p.153
 - Méthode par achat — Atlas p.153
 - Système 22 compétences — Atlas p.223
@@ -9,7 +10,9 @@
 - Jets : Python pour tout le monde (transparence totale)
 - Le MJ lance les jets secondaires/PNJ, le joueur lance les jets importants
 
+
 ## PJ — Nestor Blunderstruck
+
 - Gnome arquebusier niveau 1
 - Voies : Artilleur rang1 / Pistolero rang1 / Gnome rang1
 - AGI+4 CON+2 FOR-2 PER0 CHA-1 INT+4 VOL0
@@ -20,70 +23,116 @@
 - Compétences maîtrisées : Sciences+1, Artisanat+1, Occultisme+1 (INT+4+3gnome = d20+8)
 - Vigilance, Natation, Equitation, Intimidation, Athlétisme (maîtrisées, 0 bonus investi)
 - PC1 / PM1 / DR 4d8
-- Équipement : pistolet (chez Lestrad!), épée longue, dague, cuir renforcé, notes brûlées
-- Or : 50po sur lui réparties (doublure/chaussures/bourse)
+- Équipement : pistolet récupéré (calicien, mécanisme à silex amélioré, canon rayé), épée longue, dague, cuir renforcé
+- Or : 100po (50 initiales + 50 promises par Lestrad, payées à quai)
+- Identité de couverture utilisée : Jan Jansen, marchand de navets et alchimiste (donnée à Alessandro uniquement)
+
 
 ## Background Nestor
+
 A fait exploser le labo d'un Forgesort en lui volant ses secrets sur les armes à poudre caliciennes. Fuit vers Calice pour percer les secrets des artificiers et se faire un nom. Voyage clandestin en cale de l'Éralda. Alliance avec rat de cale (offrandes de biscuits).
+Le pistolet est d'origine calicienne, héritage familial — origine exacte inconnue, à élucider à Calice.
+A accepté de rejoindre l'Ordre Déchu de façon informelle à l'arrivée à Calice.
 
-## Situation fin session 1 — Jour 9 en mer sur l'Éralda
-- Alezzandro (assassin Gonzarello) endormi en cellule, ~6h de sommeil
-- Lestrad von Warowitch en cale : a le pistolet de Nestor + Vampirella
-- Nestor : vaseux mais debout grâce à fiole de Syléa, direction cabine Syléa
-- Syléa : alliée, cabine pont supérieur, canapé pour Nestor
-- Ce soir prévu : brandy avec Lestrad, présentation officielle Syléa/Lestrad
-- Gilarn (légionnaire peau argentée) = garde arrangeant, doit service à Syléa
 
-## PNJ importants rencontrés
+## Situation début session 3 — Jour 11, arrivée à Calice, quais du port
+
+- Nestor vient d'arriver à quai avec Lestrad
+- Alessandro Maro a nagé depuis la cale et a été récupéré à quai — parole tenue
+- Alessandro suit Nestor voir Lestrad au quartier des Souffleurs, sans engagement formel
+- Syléa est partie seule vers la Taverne de l'Âne Bleue (vieux port, Port Ddale)
+- Lestrad est parti avec ses deux porteurs et le cercueil vers l'entrepôt Warowitch, quartier des Souffleurs
+- Nestor et Alessandro marchent vers le quartier des Souffleurs
+- Adresse de Syléa pour 2 jours : mémorisée par Nestor (mangé le papier)
+
+
+## Décisions et événements clés session 2
+
+- Alezzandro découvert éveillé avec l'ardoise de Bernie (volée à Syléa par pickpocket)
+- Ardoise contenait "JE SAIS TOUT" — Bernie lui avait parlé de Lestrad, Vampirella, et d'une livraison attendue à Calice avant de mourir
+- Négociation avec Alessandro : 250po de Lestrad + fausse mort officielle
+- Alessandro Maro = "mort en mer", a voyagé dans la caisse de Nestor les 2 derniers jours
+- A nagé jusqu'au quai pour débarquer clandestinement
+- Nestor a adopté identité Jan Jansen (navets/alchimiste) face à Alessandro uniquement
+- Nestor a accepté informellement de rejoindre l'Ordre Déchu
+- Débarquement du cercueil réussi discrètement grâce aux porteurs de Lestrad
+
+
+## PNJ importants
 
 ### Lestrad von Warowitch
 Marchand de cercueils excentrique, grand et maigre, moustache, tout en noir.
-Voyage en cale dans son propre cercueil de velours.
-Chauve-souris Vampirella (collier velours rouge) = familier et messagère.
-Contact de l'Ordre Déchu à Calice — Syléa le cherchait sans le savoir.
-A payé 50po à Nestor (50 restantes à l'arrivée à Calice).
-Possède un cercueil calicien antique mystérieux en cale = MacGuffin central.
-Doit beaucoup d'argent à Gonzarello — raison de la mission d'Alezzandro.
-Bernie (serviteur muet fidèle 20 ans) = mort, jeté à la mer par Alezzandro.
-Ne sait pas se battre. Brandy de Bastion excellent.
+Voyage avec son cercueil de velours bordeaux (meuble multifonction).
+Chauve-souris Vampirella (collier velours rouge) = familier et messagère, entraînée par Bernie.
+Contact de l'Ordre Déchu à Calice — logisticien du réseau.
+A payé 250po à Alessandro + 100po à Nestor (50 à l'embarquement + 50 à quai).
+Possède un cercueil calicien antique mystérieux = MacGuffin central (inscriptions illisibles, contenu inconnu, même pour Lestrad).
+Doit de l'argent à Gonzarello — raison initiale de la mission d'Alessandro.
+Ne sait pas se battre. Brandy de Bastion excellent. Passé au tutoiement avec Nestor à quai.
+Entrepôt : quartier des Souffleurs, "entrepôt Warowitch, tout le monde connaît".
+**Relation Nestor : allié employeur, confiance établie, tutoiement.**
 
 ### Syléa Vorn
 Prêtresse Solaris, 28 ans, humaine, cheveux noirs, nage très bien.
-Mission : livrer message codé à Calice (Taverne de l'Âne Bleue, Port Ddale).
+Mission : livrer message codé à Calice (Taverne de l'Âne Bleue, Port Ddale, vieux port).
 Code de reconnaissance : porter symbole Solaris visible, répondre à "N'êtes-vous pas de l'Ouest ?"
-A repêché Bernie mourant — dernier mot : "cercueil" + ardoise avec "Vampirella + prénom Lestrad"
-Cherchait Lestrad comme contact Ordre Déchu sans savoir qui il était.
-Alliée de Nestor. Sens de l'humour sec. Cabine pont supérieur avec canapé pour Nestor.
-A une fiole verte (antidote somnifère partiel).
+Membre de l'Ordre Déchu — messagère, dit ne pas en savoir plus que sa mission.
+Recrutée à 19 ans après avoir trouvé un manuscrit dans une bibliothèque secrète.
+A fourni son adresse de logement à Nestor pour 2 jours (mémorisée, papier mangé).
+Sens de l'humour sec. Pragmatique. A serré la main de Nestor franchement à l'arrivée.
+**Relation Nestor : alliée, confiance mutuelle établie, complicité naissante. A proposé Nestor à l'Ordre.**
 
-### Alezzandro
-Assassin professionnel envoyé par Gonzarello. Grand, barbu, yeux bleus pâles.
-Mains comme des battoirs. Jamais pris. Très dangereux.
-Actuellement endormi en cellule (somnifère de Lestrad, 3 gouttes + 4 dans son verre).
-Se réveillera dans ~6h après ingestion. Sait que Nestor l'a trahi.
+### Alessandro Maro (ex-Alezzandro)
+Assassin professionnel, ex-employé de Gonzarello. Grand, barbu (barbe en cours de repousse désordonnée), yeux bleus pâles, mains comme des battoirs.
+Officiellement mort en mer. Gonzarello ne sait pas encore.
+A appris de Bernie : existence de Lestrad, de Vampirella, d'une livraison importante à Calice.
+Sait que Nestor s'appelle "Jan Jansen marchand de navets" — et que c'est faux.
+Contrat avec Lestrad : 250po, silence, disponibilité pour du travail éventuel.
+Professionnel, pas rancunier, respecte la compétence. A apprécié la solution de Nestor.
+Suit Nestor voir Lestrad sans engagement formel. Connaît Calice.
+**Relation Nestor : neutralité professionnelle devenant respect mutuel. Fragile mais réelle.**
 
 ### Gilarn
-Légionnaire calicien, peau argentée, sympathique, bon nageur.
-Garde pont intermédiaire, arrangeant. Doit un service à Syléa (mal de mer soigné).
-A fermé les yeux sur les allées et venues de Nestor.
+Légionnaire calicien, peau argentée, sympathique.
+A facilité les opérations sur l'Éralda. Dette envers Syléa remboursée.
+Débarqué avec l'équipage — plus d'interaction prévue à court terme.
+**Relation Nestor : neutre, service rendu.**
 
 ### Bernie (mort)
-Serviteur muet de Lestrad, 40 ans, petit, rondouillard, perruque brune.
-Cicatrice en croissant sous oreille gauche. Communicait par ardoise et craie.
-Jeté à la mer par Alezzandro. Mort dans les bras de Syléa.
-Avait appris tous ses tours à Vampirella.
+Serviteur muet de Lestrad. Jeté à la mer par Alessandro. A parlé avant de mourir.
+**Statut : mort. Impact émotionnel sur Lestrad et Syléa.**
 
-### Le Rat de cale
-Alliance conclue avec Nestor contre offrandes de biscuits de mer.
-Faction neutre mais bienveillante.
+### Le Rat de cale (l'Éralda)
+Alliance biscuits contre bienveillance. A rendu visite à Alessandro dans sa caisse.
+**Statut : resté sur l'Éralda.**
+
+
+## L'Ordre Déchu
+
+Réseau ancien et discret. Préserve certains savoirs et objets plutôt que de les laisser être détruits ou exploités par ceux qui ont le pouvoir.
+Membres connus : Syléa (messagère), Lestrad (logisticien).
+Contact à Calice : Taverne de l'Âne Bleue, Port Ddale.
+Nestor a accepté informellement d'en faire partie.
+
 
 ## Intrigues en cours
-1. Gonzarello veut Lestrad mort ET le cercueil calicien antique
-2. Alezzandro va se réveiller — que faire de lui avant Calice ?
-3. Syléa doit livrer son message à l'Âne Bleue à l'arrivée
-4. Le cercueil calicien — inscriptions illisibles, origine mystérieuse
-5. Présentation officielle Lestrad/Syléa ce soir autour du brandy
+
+1. **Le cercueil calicien antique** — inscriptions illisibles, contenu inconnu même de Lestrad, des gens bien ET des gens moins bien l'attendent à Calice
+2. **Gonzarello** — va envoyer quelqu'un vérifier quand Alessandro ne rentrera pas. Réseau limité à Calice mais existant
+3. **Syléa et son message** — livraison à l'Âne Bleue, Port Ddale, contact inconnu
+4. **Le pistolet de Nestor** — origine calicienne, héritage familial mystérieux, à élucider
+5. **Alessandro à Calice** — nouvelle vie, nouvel employeur potentiel, situation fragile
+
 
 ## PNJ compagnons potentiels
-[CONFIDENTIEL MJ — fiches complètes en mémoire MJ, pas encore rencontrés par Nestor]
-Trois personnages créés, à rencontrer organiquement pendant la campagne.
+
+[CONFIDENTIEL MJ — trois personnages créés, à rencontrer organiquement pendant la campagne]
+
+
+## Géographie Calice connue
+
+- Quais mécaniques : port principal, grues, vapeur, odeur charbon/soufre
+- Port Ddale : vieux port à l'ouest des quais mécaniques, odeur de poisson, Taverne de l'Âne Bleue
+- Quartier des Souffleurs : entrepôt Warowitch de Lestrad
+- Gnomes nombreux et visibles dans la ville, lunettes à lentilles multiples, outils partout
+- La ville gronde mécaniquement — "cœur mécanique" sous la cité
