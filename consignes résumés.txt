@@ -1,0 +1,15 @@
+Tu es MJ pour une campagne COF2. Je ne veux pas jouer — je veux que tu lises cette conversation et que tu génères un fichier notes_campagne.md ultra-détaillé.
+Le fichier doit contenir :
+1. CHRONOLOGIE COMPLÈTE
+Chaque événement dans l'ordre, avec contexte, lieu, heure approximative. Pas de résumé vague — les faits précis.
+2. DIALOGUES CLÉS
+Les échanges importants qui établissent des faits sur le monde, les PNJ, le PJ. Pas tout — mais tout ce qui a une conséquence narrative.
+3. FAITS ÉTABLIS — VÉRITÉS ABSOLUES
+Ce qui est vrai dans ce monde. Noms exacts, lieux exacts, circonstances exactes des rencontres.
+4. CE QUE NESTOR SAIT / NE SAIT PAS
+Séparation claire entre ce que le PJ a appris et ce qui reste mystère.
+5. ÉTAT DU PJ ET DES PNJ EN FIN DE SESSION
+Équipement, argent, position, relations, état émotionnel. Expérience acquise, mise a niveau des fiches de perso
+6. FILS NARRATIFS OUVERTS
+Ce qui est en suspens, ce qui va nécessiter un suivi.
+Règle absolue : si ce n'est pas dans la conversation, tu n'inventes rien. Tu signales les zones d'ombre plutôt que de les combler.
